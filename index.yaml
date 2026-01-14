@@ -3,12 +3,12 @@ entries:
   ecom:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-14T07:06:48.1391412+05:30"
+    created: "2026-01-14T07:11:58.0646837+05:30"
     description: A Helm chart for Kubernetes ecom deployment.
-    digest: bd6d2577c931e27bc4ed8472d90dcd7f385ea127dad9e1fd07ad078096e074a0
+    digest: d8cc71911f1aec98c855d54e55300e62d29669083503ee7ec1222f567754ea7f
     name: ecom
     type: application
     urls:
     - ecom-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-14T07:06:48.1386447+05:30"
+generated: "2026-01-14T07:11:58.0646837+05:30"
